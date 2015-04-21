@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[\$("${1:elm}").on("${2:evnt}", function(){
+
+});]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>on</tabTrigger>
+	<scope>source.js</scope>
+	<description>$().on(,function(){});</description>
+</snippet>
